@@ -9,4 +9,6 @@ What's next for this project?
 
 ![Screenshot](https://github.com/justinbrinkman/Real-Time-Audio-Pitch-Grapher/blob/master/Figure_2.png)
 
+The pitch estimation feature was built on top of markjay4k's audio streaming code: https://github.com/markjay4k/Audio-Spectrum-Analyzer-in-Python
+
 
