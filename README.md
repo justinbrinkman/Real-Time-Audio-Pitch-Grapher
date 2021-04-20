@@ -1,6 +1,6 @@
 # Real-Time-Audio-Pitch-Grapher
 
-This is a simple Python application that processes live audio data and plots the estimated pitch in real-time.
+This is a simple Python script that processes live audio data and plots the estimated pitch in real-time.
 
 What's next for this project?
 1) Deploy the basic functionality as a web application
